@@ -1,0 +1,19 @@
+{
+  "name": "khabri",
+  "version": "1.0.0",
+  "description": "login triggers",
+  "main": "build.js",
+  "scripts": {
+    "build": "node build.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tarun4all/stack-inform-chrome-extn-automated-github-actions.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tarun4all/stack-inform-chrome-extn-automated-github-actions/issues"
+  },
+  "homepage": "https://github.com/tarun4all/stack-inform-chrome-extn-automated-github-actions#readme"
+}
