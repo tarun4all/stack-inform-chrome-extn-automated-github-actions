@@ -1,0 +1,18 @@
+{
+    "name": "Khabri",
+    "version": "1.0.0",
+    "description": "Loggedin and loggedout message.",
+    "manifest_version": 2,
+    "permissions": [
+        "storage"
+    ],
+    "content_scripts": [
+        {
+        "matches": ["<all_urls>"],
+        "js": ["js/inform.js"]
+        }
+    ],
+
+    "web_accessible_resources": [
+    ]
+}
