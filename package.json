@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/tarun4all/stack-inform-chrome-extn-automated-github-actions#readme",
   "dependencies": {
-    "node-fetch": "^2.6.0"
+    "node-fetch": "^2.6.7"
   }
 }
